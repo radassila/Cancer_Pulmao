@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Python virtual environment folders
+env/
+venv/
+
+# VSCode settings (se usar VSCode)
+.vscode/
+
+# Mac OS system files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Jupyter Notebook output files (se quiser ignorar outputs)
+*.nbconvert.ipynb
+
+# Pip cache
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyCharm
+.idea/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
